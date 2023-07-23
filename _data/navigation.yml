@@ -51,5 +51,6 @@ header:
       # @end locale config
     url: /about.html
 
-  - title:      Docs
-    url:        docs/_docs/en/1.1-quick-start.md
+    - title:      Docs 
+     url:        /docs/en/quick-start 
+     key:        docs
