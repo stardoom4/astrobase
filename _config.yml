@@ -21,8 +21,7 @@ highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomor
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : SpaceMan 
-description: > # this means to ignore newlines until "Language & timezone"
-  SpaceMan's Personal site with blog and astronomy wiki.
+description: SpaceMan's Personal site with blog and astronomy wiki.
 
 
 ## => Language and Timezone
